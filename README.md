@@ -1,4 +1,4 @@
-# lovelace-drawer
+# expander-card
 
 Minimal, dependency-free replacement for the [lovelace-expander-card](https://github.com/MelleD/lovelace-expander-card).
 
