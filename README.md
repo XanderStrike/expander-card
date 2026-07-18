@@ -47,7 +47,6 @@ Hardcoded behavior (matches how I used the original):
 - starts collapsed, animates open/close (~350ms)
 - card background kept (`clear: false`)
 - child cards get transparent background/border/shadow (`clear-children: true`)
-- light haptic on tap
 
 Example:
 

@@ -160,8 +160,6 @@
     _setOpen(open) {
       this._open = !!open;
       this._applyOpenClass();
-      // Light haptic feedback for the HA companion apps.
-      this.dispatchEvent(new CustomEvent('haptic', { detail: 'light', bubbles: true, composed: true }));
     }
 
     _applyOpenClass() {
