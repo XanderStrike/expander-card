@@ -12,6 +12,16 @@ no build step. As it should be.
 
 I'm not really sure why, but this also animates smoother.
 
+<details>
+   <summary>Demo:</summary>
+
+   
+
+https://github.com/user-attachments/assets/0768b5ab-01a4-4841-a17d-280a8ee81df7
+
+
+</details>
+
 ## Install
 
 1. Copy `expander-card.js` into your HA `config/www/` folder.
